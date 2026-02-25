@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Local Password Manager
+# 🔐 AegisVault
 
 **A secure, offline-first password vault built with Python.**
 
@@ -118,3 +118,4 @@ python password_manager.py
 ## 📄 License
 
 MIT — do whatever you want, just don't blame me if you forget your master password.
+
